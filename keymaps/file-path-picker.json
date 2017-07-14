@@ -1,0 +1,8 @@
+{
+  ".platform-darwin atom-text-editor:not([mini])": {
+    "shift-cmd-i": "file-path-picker:pick-file"
+  },
+  "body:not(.platform-darwin) atom-text-editor:not([mini])": {
+    "shift-alt-i": "file-path-picker:pick-file"
+  }
+}

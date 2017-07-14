@@ -1,0 +1,17 @@
+{
+  "name": "file-path-picker",
+  "main": "./lib/file-path-picker",
+  "version": "0.1.0",
+  "description": "Pick file path with prompt",
+  "activationCommands": {
+      "atom-workspace": "file-path-picker:pick-file"
+  },
+  "keywords": ["file", "pick", "choose", "insert", "path"],
+  "repository": "https://github.com/flyzto/file-path-picker",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
