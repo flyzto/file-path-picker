@@ -1,8 +1,10 @@
 {
-  ".platform-darwin atom-text-editor:not([mini])": {
-    "shift-cmd-i": "file-path-picker:pick-file"
-  },
-  "body:not(.platform-darwin) atom-text-editor:not([mini])": {
-    "shift-alt-i": "file-path-picker:pick-file"
-  }
+    ".platform-darwin atom-text-editor:not([mini])": {
+        "shift-cmd-i": "file-path-picker:pick-file",
+        "alt-cmd-b": "file-path-picker:to-base64"
+    },
+    "body:not(.platform-darwin) atom-text-editor:not([mini])": {
+        "shift-alt-i": "file-path-picker:pick-file",
+        "ctrl-alt-e": "file-path-picker:to-base64"
+    }
 }
