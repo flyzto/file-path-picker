@@ -1,5 +1,8 @@
+## 0.3.1
+* Add 'Pick Base64' method
+
 ## 0.3.0
-* Add base64 method
+* Add 'To Base64' method
 
 ## 0.2.0
 * Fix bugs
