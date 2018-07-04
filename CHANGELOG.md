@@ -1,3 +1,6 @@
+## 0.3.2
+* Fix bugs
+
 ## 0.3.1
 * Add 'Pick Base64' method
 
