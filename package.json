@@ -1,7 +1,7 @@
 {
   "name": "file-path-picker",
   "main": "./lib/file-path-picker",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "Pick file path with prompt.\n Encode file with uri to base64 in html/css",
   "keywords": [
     "file",
