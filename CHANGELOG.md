@@ -1,3 +1,6 @@
+## 1.0.0
+* Add activationCommands
+
 ## 0.3.2
 * Fix bugs
 
